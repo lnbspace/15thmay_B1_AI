@@ -1,8 +1,8 @@
-## Welcome To Summer Training / Intership  programe 2021 
+## Welcome To Summer Training / Internship  programe 2021 
 
-###  Here are Some IMportant Information and pages 
+###  Here are Some important Information and pages 
 
-###  ALL documents and codes will be avialable here so keep checking after every session
+###  ALL documents and codes will be available here so keep checking after every session
 
 # Links :
 
