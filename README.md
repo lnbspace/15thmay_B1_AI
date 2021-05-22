@@ -1,16 +1,13 @@
-## Welcome To Summer Training / Internship  programe 2021 
+# 15thmay_B1_AI
 
-###  Here are Some important Information and pages 
+## LOgic understanding 
 
-###  ALL documents and codes will be available here so keep checking after every session
+<img src="GATES.png">
 
-# Links :
 
-###  Youtube Link
+## type control 
 
-[youtube](https://www.youtube.com/c/lnbcore)
+<img src="type.png">
 
-### LinkedIn. 
 
-[LinkedIn](https://www.linkedin.com/company/learn-and-build)
 
